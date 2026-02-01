@@ -1,0 +1,5 @@
+﻿  lab3A.c
+D:\vs2019code\lab\lab3A\lab3A.c(22,9): warning C4013: “gets”未定义；假设外部返回 int
+D:\vs2019code\lab\lab3A\lab3A.c(22,22): warning C4047: “==”:“int”与“void *”的间接级别不同
+D:\vs2019code\lab\lab3A\lab3A.c(26,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  lab3A.vcxproj -> D:\vs2019code\lab\x64\Debug\lab3A.exe

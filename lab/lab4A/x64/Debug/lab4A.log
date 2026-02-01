@@ -1,0 +1,6 @@
+﻿  local_main.c
+D:\vs2019code\lab\lab4A\local_main.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  robots.c
+  正在生成代码...
+D:\vs2019code\lab\lab4A\robots.c(40,1): warning C4715: “char_from_dir”: 不是所有的控件路径都返回值
+  lab4A.vcxproj -> D:\vs2019code\lab\x64\Debug\lab4A.exe
