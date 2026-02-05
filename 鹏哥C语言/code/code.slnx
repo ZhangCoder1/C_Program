@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="1.30_homework/1.30_homework.vcxproj" Id="87337ba5-fb86-48ca-894f-c58ac80f308c" />
+  <Project Path="1_31homework/1_31homework.vcxproj" Id="cd0be053-fa8f-48f2-9d6f-d1411a3a3e7e" />
+  <Project Path="2.3_homework/2.3_homework.vcxproj" Id="6537aecf-b6ce-494a-99d4-2353809a501f" />
+</Solution>

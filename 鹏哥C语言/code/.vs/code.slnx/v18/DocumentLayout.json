@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_Program\\\u9E4F\u54E5C\u8BED\u8A00\\code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6537AECF-B6CE-494A-99D4-2353809A501F}|2.3_homework\\2.3_homework.vcxproj|D:\\C_Program\\\u9E4F\u54E5C\u8BED\u8A00\\code\\2.3_homework\\array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6537AECF-B6CE-494A-99D4-2353809A501F}|2.3_homework\\2.3_homework.vcxproj|solutionrelative:2.3_homework\\array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "array.c",
+              "DocumentMoniker": "D:\\C_Program\\\u9E4F\u54E5C\u8BED\u8A00\\code\\2.3_homework\\array.c",
+              "RelativeDocumentMoniker": "2.3_homework\\array.c",
+              "ToolTip": "D:\\C_Program\\\u9E4F\u54E5C\u8BED\u8A00\\code\\2.3_homework\\array.c",
+              "RelativeToolTip": "2.3_homework\\array.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-05T10:56:28.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
