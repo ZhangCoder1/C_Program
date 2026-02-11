@@ -5,5 +5,9 @@
   </Configurations>
   <Project Path="1.30_homework/1.30_homework.vcxproj" Id="87337ba5-fb86-48ca-894f-c58ac80f308c" />
   <Project Path="1_31homework/1_31homework.vcxproj" Id="cd0be053-fa8f-48f2-9d6f-d1411a3a3e7e" />
+  <Project Path="2.10_homework/2.10_homework.vcxproj" Id="40bd86ea-e7a4-42ca-86de-ad8ef0411773" />
   <Project Path="2.3_homework/2.3_homework.vcxproj" Id="6537aecf-b6ce-494a-99d4-2353809a501f" />
+  <Project Path="2.7_homework/2.7_homework.vcxproj" Id="2e102b24-dbab-46c9-a347-4e656296cd72" />
+  <Project Path="2.8_homework/2.8_homework.vcxproj" Id="9978ed10-d2cc-481e-96d0-1c0a811d4c84" />
+  <Project Path="扫雷/扫雷.vcxproj" Id="881e48bf-90b4-4c9f-9033-46653e5117bd" />
 </Solution>

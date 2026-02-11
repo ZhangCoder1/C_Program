@@ -1,0 +1,5 @@
+﻿  game.c
+  play.c
+  正在生成代码...
+D:\C_Program\鹏哥C语言\code\扫雷\play.c(27,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  扫雷.vcxproj -> D:\C_Program\鹏哥C语言\code\x64\Debug\扫雷.exe

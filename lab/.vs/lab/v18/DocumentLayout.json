@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_Program\\lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1B996C-03DE-42F9-9779-794D0EE419BC}|lab2B\\lab2B.vcxproj|D:\\C_Program\\lab\\lab2B\\lab2B.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B1B996C-03DE-42F9-9779-794D0EE419BC}|lab2B\\lab2B.vcxproj|solutionrelative:lab2B\\lab2B.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab2B.c",
+              "DocumentMoniker": "D:\\C_Program\\lab\\lab2B\\lab2B.c",
+              "RelativeDocumentMoniker": "lab2B\\lab2B.c",
+              "ToolTip": "D:\\C_Program\\lab\\lab2B\\lab2B.c",
+              "RelativeToolTip": "lab2B\\lab2B.c",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-08T12:55:33.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
